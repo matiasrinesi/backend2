@@ -74,11 +74,7 @@ class contenedor {
 let path = new contenedor('productos.json')
 
 
-path.save('camiseta Barcelona', '10000', 'https://d3ugyf2ht6aenh.cloudfront.net/stores/026/234/products/mar3-f5eadb0e0e488ae7cd15467468945501-50-0.png');
+path.save('camiseta Barcelona', '10000', 'https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia.futbolmania.com%2Fmedia%2Fcatalog%2Fproduct%2Fcache%2F1%2Fimage%2F0f330055bc18e2dda592b4a7c3a0ea22%2FD%2FM%2FDM1840-452_camiseta-color-z-purpura-oscuro-y-rojo-nike-barcelona-2022-2023-dri-fit-stadium_1_completa-frontal.jpg&imgrefurl=https%3A%2F%2Fwww.futbolmania.com%2Fes%2Fdm1840-452&tbnid=RDC-1Mc0gpi-SM&vet=12ahUKEwiP8N_V-Z_7AhXbupUCHVIYCUoQMygGegUIARCZAg..i&docid=eokSNkiR42fCSM&w=1500&h=1500&q=camiseta%20barca&ved=2ahUKEwiP8N_V-Z_7AhXbupUCHVIYCUoQMygGegUIARCZAg');
 
 
-path.save('camiseta Arsenal', '10000', 'https://d3ugyf2ht6aenh.cloudfront.net/stores/026/234/products/mar3-f5eadb0e0e488ae7cd15467468945501-50-0.png');
-//path.getById(0).then(res => console.log(res))
-
-//path.deleteById(1)
-//path.deleteAll()
+path.save('camiseta Arsenal', '10000', 'https://www.google.com/imgres?imgurl=https%3A%2F%2Fnewsport.vteximg.com.br%2Farquivos%2Fids%2F1098965-1000-1000%2FFH7816-A.jpg%3Fv%3D637466172821030000&imgrefurl=https%3A%2F%2Fwww.templodelfutbol.com.ar%2Fcamiseta-nino-adidas-arsenal-home-fh7816%2Fp&tbnid=WJpXKjdkOpEDRM&vet=12ahUKEwiEq6za-p_7AhU-uZUCHRsNDzEQMygBegUIARCoAg..i&docid=vd9UCb-b2SCObM&w=1000&h=1000&q=camiseta%20arsenal&ved=2ahUKEwiEq6za-p_7AhU-uZUCHRsNDzEQMygBegUIARCoAg');
